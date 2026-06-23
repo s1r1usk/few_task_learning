@@ -1,0 +1,6 @@
+{
+  "crash_rate": 40.0,
+  "success_rate": 60.0,
+  "final_inversion_loss": 0.7746190428733826,
+  "n_closed_loop_episodes": 10
+}
